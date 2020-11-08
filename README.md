@@ -33,3 +33,24 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <img src="screenshot/Deliverable 3- Lot 3.png">
 
 Above we have Screenshots of the t-test for all lots and then break down into each individual lot; According to the result for all lots, the p-value is showing 0.06028, and it is outside the significance level of 0.05, therefore, it there is no sufficient evidence to reject the null hypothesis. 
+
+## Study Design: MechaCar vs Competitions
+
+When purchasing, I think most of the consumers are looking for a more fuel efficient car, so in order to out-duel their competitions, improving their fuel efficiency would be the best choice. Therefore I choose the fuel efficiency. 
+To determine the MPG numbers, we need to gather data from MechaCar and also their competitions as well, several outside factors such as city or highway, the length of the trips and also temperature could be a factor as well. 
+
+Addressing the following questions: 
+
+1. What metric or metrics are you going to test?
+ - We need large sample of dataset
+ - Dataset needs to be randomly selected
+ 
+2. What is the null hypothesis or alternative hypothesis?
+ - Null Hypothesis: There is no statistically difference between the MPG numbers of MechaCar and their competitions' MPG numbers;
+ - Alternative Hypothesis: The mean of the MPG numbers of MechaCar is greater than their comptitions. 
+ 
+3. What statistical test would you use to test the hypothesis? And why?
+ - t-test would be optimal to use to test the hypothesis, it'd be better to use the test that is currently in use in this analysis. 
+ 
+4. What data is needed to run the statistical test?
+ - We need to get MPG numbers for MechaCars and also their competitions, in order to perform the t-test to get the p-value, if we get a p-value number that is less than 0.05 then we can reject the null. 
