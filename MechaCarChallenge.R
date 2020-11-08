@@ -27,7 +27,8 @@ lot_summary <-Suspension %>% group_by(Manufacturing_Lot)%>% summarize(Mean=mean(
 
 
 #Deliverable 3
-#Using t.test() function 
+#Using t.test() function to determine if the PSI across all lots is 
+#statistically different from the population mean of 1500 ppsi
 #First test all lots
 t.test(Suspension$PSI,mu=1500)
 
