@@ -32,3 +32,4 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <img src="screenshot/Deliverable 3- Lot 2.png">
 <img src="screenshot/Deliverable 3- Lot 3.png">
 
+Above we have Screenshots of the t-test for all lots and then break down into each individual lot; According to the result for all lots, the p-value is showing 0.06028, and it is outside the significance level of 0.05, therefore, it there is no sufficient evidence to reject the null hypothesis. 
