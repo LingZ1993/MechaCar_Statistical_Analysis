@@ -26,3 +26,9 @@ The design specifications for the MechaCar suspension coils dictate that the var
  - Lot 1 and Lot 2 meets the design specification, while Lot 3 does not meet the specification, because the variance exceeded 100 pounds per square inch (170.2861224). 
  
  ## T-Tests on Suspension Coils 
+
+<img src="screenshot/Deliverable 3- All Lots.png">
+<img src="screenshot/Deliverable 3- Lot 1.png">
+<img src="screenshot/Deliverable 3- Lot 2.png">
+<img src="screenshot/Deliverable 3- Lot 3.png">
+
